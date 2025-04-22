@@ -39,9 +39,17 @@ const jitendra = {
 
 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  width="100%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  width="100%" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alwwithu&theme=dark&hide_border=false&layout=compact"  width="100%" >
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="100%"><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alwwithu&theme=dark&hide_border=false&layout=compact" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ---
