@@ -39,18 +39,12 @@ const jitendra = {
 
 **GitHub Stats**
 
-<img src="https://github-readme-stats.vercel.app/api/top_lang/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" align="right" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  width="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  width="100%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alwwithu&theme=dark&hide_border=false&layout=compact"  width="100%" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=alwwithu&theme=dark&hide_border=false&include_all_commits=true&count_private=true"  width="48%">
-<br/>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alwwithu&theme=dark&hide_border=false"  >
-</p>
 
 ---
 
 <!-- footer image -->
 ![](https://i.imgur.com/waxVImv.png)
-
-
-
